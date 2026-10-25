@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+    background-color: purple;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.button {
+    background-color: #ce36a8;
+    color: white;
+    text-decoration: none;
+    padding: 20px 10px 10px 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nav-link {
+    color:white;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+article {
+    background-color: palevioletred;
+    padding: 20px;
+    width: 400px;
+    margin: 20px;
+    text-align: center;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: purple;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: violet;
+    padding: 5px;
+    display: flex;
+
+}
+
+footer a {
+    margin-right: 35px;
+    margin-top: 10px;
+}
+
+footer p {
+    font-size: 24px;
+    color: white;
+}
+section {
+    color:white;
+}
